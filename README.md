@@ -30,6 +30,10 @@
 # 🇬🇧 English Documentation
 
 ## 🌟 Overview
+<p align="center">
+    <img src="screenshot_en.png" alt="AI Media Sorter Screenshot" width="850" />
+</p>
+
 **AI Media Sorter** is a high-performance, ultra-modern desktop application designed to automatically scan, classify, and organize your vast collections of photos and videos into designated folders without sending a single byte of data over the internet.
 
 Powered by lightweight on-device AI models (**YuNet**, **YOLOv8 Nano**, and **Document Vision Engine**), it intelligently detects faces, people, documents, bank transfer slips, QR codes, dogs, cats, pets, and vehicles at high speeds with minimal CPU consumption.
@@ -166,6 +170,10 @@ This project is licensed under the [MIT License](LICENSE).
 # 🇹🇭 คู่มือการใช้งานภาษาไทย (Thai Documentation)
 
 ## 🌟 ภาพรวมโปรแกรม
+<p align="center">
+  <img src="screenshot_th.png" alt="ตัวอย่างหน้าจอโปรแกรม AI Media Sorter" width="850" />
+</p>
+
 **AI Media Sorter** คือโปรแกรม Desktop สำหรับคัดแยกและจัดระเบียบไฟล์รูปภาพและวิดีโอจำนวนมากเข้าโฟลเดอร์เป้าหมายอัตโนมัติ โดยทำงานแบบ **ออฟไลน์ 100% (Offline)** ภายในเครื่องของคุณ ไม่มีการส่งรูปภาพหรือข้อมูลใดๆ ออกนอกเครื่อง มั่นใจได้ในความปลอดภัยและความเป็นส่วนตัวสูงสุด
 
 โปรแกรมขับเคลื่อนด้วยโมเดล AI ขนาดกะทัดรัดแต่แม่นยำสูง (**YuNet**, **YOLOv8 Nano** และ **Document Vision Engine**) สามารถตรวจจับใบหน้าคน, เอกสาร/สลิปโอนเงิน, สัตว์เลี้ยง (หมา/แมว) และยานพาหนะได้อย่างรวดเร็ว โดยไม่กินทรัพยากรเครื่อง
