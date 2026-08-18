@@ -1,7 +1,7 @@
 # 📁 AI Media Sorter v1.0.0
 
 <p align="center">
-  <img src="assets/app_icon.png" width="128" height="128" alt="AI Media Sorter Logo" />
+  <img src="app_icon.png" width="128" height="128" alt="AI Media Sorter Logo" />
 </p>
 
 <p align="center">
